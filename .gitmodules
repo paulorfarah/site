@@ -1,0 +1,6 @@
+[submodule "hugo-vitae"]
+	path = hugo-vitae
+	url = https://github.com/dataCobra/hugo-vitae
+[submodule "themes/vitae"]
+	path = themes/vitae
+	url = https://github.com/dataCobra/hugo-vitae
