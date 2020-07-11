@@ -1,4 +1,4 @@
-baseURL = "site-ex1y.onrender.com"
+baseUrl = "https://site-ex1y.onrender.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "vitae"
