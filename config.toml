@@ -2,3 +2,7 @@ baseURL = "https://site-ex1y.onrender.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "vitae"
+[[params.social]]
+name = "Instagram"
+icon = "fab fa-instagram"
+url = "https://www.instagram.com/rocksedani"
