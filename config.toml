@@ -1,4 +1,4 @@
-baseURL = "http://site-ex1y.onrender.com"
+baseURL = "https://site-ex1y.onrender.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "Hugo Authors"
