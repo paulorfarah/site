@@ -3,7 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "Hugo Authors"
 title = "Vitae"
-theme = "hugo-vitae"
+theme = "vitae"
 paginate = 5
 enableRobotsTXT = true
 
